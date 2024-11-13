@@ -1,3 +1,3 @@
 # umad 💢
 
-**Use maud for app design**
+**Use [maud](https://maud.lambda.xyz) for App Design**
